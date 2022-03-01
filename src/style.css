@@ -9,5 +9,15 @@ body {
 
 nav {
   height: 55px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
   background-color: #F55A5A
+}
+
+.nav--ico {
+  align-self: center;
+}
+.nav--text {
+  color: white;
 }

@@ -6,7 +6,7 @@ export default function Navbar(){
     return(
         <nav>
             <img src={icoGlobe} className="nav--ico" alt=""/>
-            <p>my travel journal</p>
+            <p className="nav--text">my travel journal</p>
         </nav>
     )
 }
