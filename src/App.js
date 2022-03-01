@@ -8,7 +8,7 @@ export default function App() {
     <div>
       <Navbar />
       <div class="container">
-      <Card />
+        <Card />
 
       </div>
 

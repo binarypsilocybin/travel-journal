@@ -21,3 +21,19 @@ nav {
 .nav--text {
   color: white;
 }
+
+.container {
+  max-width: 750px;
+  margin: auto;
+}
+
+.card {
+  display: flex;
+}
+
+
+.card--stats {
+  display: flex;
+  align-items: center;
+}
+
